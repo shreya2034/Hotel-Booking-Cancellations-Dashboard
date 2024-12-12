@@ -1,4 +1,4 @@
-Hotel Booking Cancellations Analysis Dashboard
+# Hotel Booking Cancellations Analysis Dashboard
 
 📊 HOTEL BOOKING CANCELLATIONS ANALYSIS DASHBOARD using Excel! ✨
 This dashboard provides a comprehensive analysis of booking and cancellation patterns in the hotel industry. It offers valuable insights into guest types, room preferences, and monthly booking trends. These insights are crucial for identifying patterns that can help optimize booking strategies and reduce cancellations.
